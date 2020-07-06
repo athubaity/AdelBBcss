@@ -8,3 +8,7 @@ body {
 #portContainer {
     border-radius: 5%;
 }
+
+#portBody {
+    background-color: #db85857c!;
+}
