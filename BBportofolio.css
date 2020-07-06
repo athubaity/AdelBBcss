@@ -10,6 +10,7 @@ body {
 }
 
 #portBody {
+    color: whitesmoke!important;
     background-color: rgba(0,0,0,0);
     border: none;
 }
