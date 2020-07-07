@@ -1,5 +1,5 @@
 body {
-    background-color: white!important;
+    background-color: black!important;
     height: 100%;
     width: 100%;
     background: url(https://i.ibb.co/PtFPfFz/1011.jpg);
@@ -18,7 +18,7 @@ body {
 }
 
 #imgMe {
-    background: rgb(255, 187, 0);
+    background: #1cb23500;
     border-radius: 50%;
     height: 50%;
     width: 40%;
@@ -39,7 +39,7 @@ body {
 }
 
 .portSection .vtbegenerated{
-  background: rgb(255, 187, 0, 0.95);
+  background: rgb(28, 178, 53, 0.95);
   border-radius: 10px;
   border: none;
   padding: 10px;
