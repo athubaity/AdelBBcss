@@ -61,3 +61,22 @@ body {
 #portNav ul li a {
     color: green;
 }
+
+.portLivePreviewActionBar {
+    background: none;
+    color: green;
+}
+
+.saveStyle, .closePreview {
+    background: black;
+    border: 1px solid green;
+    color: green;
+}
+
+.portLivePreviewActionBar ul li a {
+    padding-left: 0;
+    padding: 6px;
+    color: green;
+    background: black;
+    border: 1px solid green;
+}
