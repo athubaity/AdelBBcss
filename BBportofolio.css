@@ -11,7 +11,6 @@ body {
 }
 
 #imgMe {
-    border: 2px solid black;
     background: rgb(255, 187, 0);
     border-radius: 50%;
     height: 50%;
@@ -19,8 +18,8 @@ body {
 }
 
 #portBody {
-    color: whitesmoke!important;
-    background-color: rgba(0, 0, 0, 0);
+    color: black!important;
+    background-color: rgb(255, 187, 0, 0.95);
     border: none;
 }
 
