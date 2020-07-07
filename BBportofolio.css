@@ -12,7 +12,7 @@ body {
 #imgMe {
     border: black;
     background: rgba(0, 0, 0, 0.226);
-    border-radius: 25%;
+    border-radius: 50%;
 }
 
 #portBody {
