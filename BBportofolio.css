@@ -32,11 +32,6 @@ body {
     padding: 0px;
 }
 
-#portText h2, #portText h3 {
-    visibility: hidden;
-    padding: 0px;
-}
-
 .portSection .vtbegenerated{
   background: black;
   border-radius: 10px;
