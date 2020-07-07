@@ -63,20 +63,20 @@ body {
 }
 
 .portLivePreviewActionBar {
-    background: none;
-    color: green;
+    background: none!important;
+    color: green!important;
 }
 
 .saveStyle, .closePreview {
-    background: black;
-    border: 1px solid green;
-    color: green;
+    background: black!important;
+    border: 1px solid green!important;
+    color: green!important;
 }
 
 .portLivePreviewActionBar ul li a {
-    padding-left: 0;
-    padding: 6px;
-    color: green;
-    background: black;
-    border: 1px solid green;
+    padding-left: 0!important;
+    padding: 6px!important;
+    color: green!important;
+    background: black!important;
+    border: 1px solid green!important;
 }
