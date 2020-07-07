@@ -45,3 +45,19 @@ body {
   padding: 10px;
   margin: 0px 0px 10px;
 }
+
+#portHeader {
+    visibility: hidden;
+    border: none;
+    padding: 0px;
+}
+
+#portNav {
+    background: rgba(0, 0, 0, 0.90);
+    border-radius: 10px;
+
+}
+
+#portNav ul li a {
+    color: green;
+}
