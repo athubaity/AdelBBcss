@@ -3,7 +3,7 @@ body {
     height: 100%;
     width: 100%;
     background: url(https://i.ibb.co/DbSft0H/pngguru-com.png);
-    font: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans, cursive;
 }
 
 #portContainer {
