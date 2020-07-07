@@ -9,6 +9,12 @@ body {
     border-radius: 5%;
 }
 
+#imgMe {
+    border: black;
+    background: rgba(0, 0, 0, 0.226);
+    border-radius: 25%;
+}
+
 #portBody {
     color: black!important;
     background-color: rgba(0,0,0,0);
