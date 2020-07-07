@@ -24,3 +24,7 @@ body {
 
 .portSection {
 }
+
+#portText .portSection h3.section-title {
+    visibility: hidden;
+}
