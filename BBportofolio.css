@@ -25,7 +25,7 @@ body {
 }
 
 #portBody {
-    color: black!important;
+    color: #1cb235!important;
     background-color: rgba(0, 0, 0, 0);
     border: none;
 }
@@ -39,7 +39,7 @@ body {
 }
 
 .portSection .vtbegenerated{
-  background: black;
+  background: rgb(0, 0, 0, 0.75);
   border-radius: 10px;
   border: none;
   padding: 10px;
