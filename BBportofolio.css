@@ -92,6 +92,11 @@ body {
     border-radius: 10px;
 }
 
+#portNav ul {
+    margin: auto;
+    width: fit-content;
+}
+
 #portNav ul li a {
     color: whitesmoke;
 }
@@ -125,3 +130,5 @@ body {
     color: whitesmoke;
     border: none!important;
 }
+
+
