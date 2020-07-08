@@ -1,15 +1,15 @@
 body {
-    background-color:rgb(255, 187, 0)!important;
+    background-color:black!important;
     height: 100%;
     width: 100%;
-    background: url(https://i.ibb.co/DbSft0H/pngguru-com.png);
+    background: url(https://i.ibb.co/n0GVz1p/WebDev.png);
      /* Full height */
     height: 100%;
 
   /* Center and scale the image nicely */
-    background-position: center;
+    background-position: auto;
     background-repeat: repeat;
-    background-size: cover;
+    background-size: auto;
     font-family: Comic Sans MS, Comic Sans, cursive!important;
 }
 
@@ -25,7 +25,7 @@ body {
 }
 
 #portBody {
-    color: rgb(255, 187, 0)!important;
+    color: whitesmoke!important;
     background-color: rgba(0, 0, 0, 0);
     border: none;
 }
@@ -39,7 +39,7 @@ body {
 }
 
 .portSection .vtbegenerated{
-  background: rgb(0, 0, 0, 0.75);
+  background: rgba(255, 0, 0, 0.25);
   border-radius: 10px;
   border: none;
   padding: 10px;
@@ -50,33 +50,34 @@ body {
     visibility: hidden;
     border: none;
     padding: 0px;
+    height: 0px;
 }
 
 #portNav {
-    background: rgba(0, 0, 0, 0.90);
+    background: rgba(255, 0, 0, 0.25);
     border-radius: 10px;
 
 }
 
 #portNav ul li a {
-    color: rgb(255, 187, 0);
+    color: whitesmoke;
 }
 
 .portLivePreviewActionBar {
     background: none!important;
-    color: rgb(255, 187, 0)!important;
+    color: whitesmoke!important;
 }
 
 .saveStyle, .closePreview {
     background: black!important;
-    border: 1px solid rgb(255, 187, 0)!important;
-    color: rgb(255, 187, 0)!important;
+    border: 1px solid whitesmoke!important;
+    color: whitesmoke!important;
 }
 
 .portLivePreviewActionBar ul li a {
     padding-left: 0!important;
     padding: 6px!important;
-    color: rgb(255, 187, 0)!important;
+    color: whitesmoke!important;
     background: black!important;
-    border: 1px solid rgb(255, 187, 0)!important;
+    border: 1px solid whitesmoke!important;
 }
