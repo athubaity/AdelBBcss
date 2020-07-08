@@ -14,7 +14,7 @@ body {
     border-radius: 5%;
 }
 
-a:-webkit-any-link {
+.vtbegenerated a:-webkit-any-link {
     color: whitesmoke;
     text-decoration: dashed;
     border: 2px solid whitesmoke;
