@@ -6,6 +6,10 @@ body {
     font-family: Comic Sans MS, Comic Sans, cursive!important;
 }
 
+.artifactViewBody, .artifactAttachmentFolderBody {
+    background-image: linear-gradient(to right top, #051937, #143864, #1e5b95, #1e80c9, #00a9ff)!important;
+}
+
 #portContainer {
     border-radius: 5%;
 }
