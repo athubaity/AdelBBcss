@@ -1,16 +1,16 @@
 body {
-    background-color: #1cb235!important;
+    background-color:rgb(255, 187, 0)!important;
     height: 100%;
     width: 100%;
-    background: url(https://i.ibb.co/PtFPfFz/1011.jpg);
+    background: url(https://i.ibb.co/DbSft0H/pngguru-com.png);
      /* Full height */
     height: 100%;
 
   /* Center and scale the image nicely */
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans, cursive!important;
 }
 
 #portContainer {
@@ -18,14 +18,14 @@ body {
 }
 
 #imgMe {
-    background: #1cb23500;
+    background: rgba(255, 187, 0, 0);
     border-radius: 50%;
     height: 50%;
     width: 40%;
 }
 
 #portBody {
-    color: #1cb235!important;
+    color: rgb(255, 187, 0)!important;
     background-color: rgba(0, 0, 0, 0);
     border: none;
 }
@@ -59,24 +59,24 @@ body {
 }
 
 #portNav ul li a {
-    color: green;
+    color: rgb(255, 187, 0);
 }
 
 .portLivePreviewActionBar {
     background: none!important;
-    color: green!important;
+    color: rgb(255, 187, 0)!important;
 }
 
 .saveStyle, .closePreview {
     background: black!important;
-    border: 1px solid green!important;
-    color: green!important;
+    border: 1px solid rgb(255, 187, 0)!important;
+    color: rgb(255, 187, 0)!important;
 }
 
 .portLivePreviewActionBar ul li a {
     padding-left: 0!important;
     padding: 6px!important;
-    color: green!important;
+    color: rgb(255, 187, 0)!important;
     background: black!important;
-    border: 1px solid green!important;
+    border: 1px solid rgb(255, 187, 0)!important;
 }
