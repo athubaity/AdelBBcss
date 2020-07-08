@@ -110,6 +110,6 @@ body {
 
 }
 #portFooter {
-    text-align: center;
-    background-color: #051937;
+    text-align: center!important;
+    background-color: #051937!important;
 }
