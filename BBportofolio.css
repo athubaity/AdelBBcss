@@ -50,10 +50,10 @@ body {
     font-size: 100%;
 }
 
-#portText h2, #portText h3 {
+#portText h2 {
     color: whitesmoke;
     align-items: center;
-    left: 40%;
+    left: 35%;
     position: relative;
     text-align: center;
     background: rgba(0, 0, 0, 0.75);
