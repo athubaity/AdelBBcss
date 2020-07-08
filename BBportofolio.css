@@ -12,6 +12,7 @@ body {
 
 #imgMe {
     background: rgb(255, 187, 0, 0);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border-radius: 50%;
     height: 50%;
     width: 40%;
@@ -41,6 +42,7 @@ body {
     background-color: rgb(5, 25, 55, 0.85);
     color: whitesmoke;
     border: 1px solid #e5e5e5;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border-radius: 25px;
     padding: 10px;
 }
@@ -59,6 +61,7 @@ body {
     background: rgb(5, 25, 55, 0.85);
     border: 1px solid whitesmoke;
     border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     width: max-content;
     padding: 10px;
 }
@@ -95,8 +98,10 @@ body {
 }
 
 .saveStyle, .closePreview {
-    background: black!important;
+    background: rgb(5, 25, 55, 0.85)!important;
     border: 1px solid whitesmoke!important;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     color: whitesmoke!important;
 }
 
@@ -104,8 +109,10 @@ body {
     padding-left: 0!important;
     padding: 6px!important;
     color: whitesmoke!important;
-    background: black!important;
+    background: rgb(5, 25, 55, 0.85)!important;
     border: 1px solid whitesmoke!important;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 #portHeader, #portFooter {
