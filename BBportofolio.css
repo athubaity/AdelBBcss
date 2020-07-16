@@ -67,14 +67,11 @@ body {
 #portText h2 {
     color: whitesmoke;
     align-items: center;
-    left: 41.5%;
-    position: relative;
     text-align: center;
     background: rgb(5, 25, 55, 0.85);
     border: 1px solid whitesmoke;
     border-radius: 10px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    width: max-content;
     padding: 10px;
 }
 
